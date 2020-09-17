@@ -1,4 +1,7 @@
-
+body 
+{
+  background-color: skyblue;
+}
   
   table, td, th {
     border: 5px solid rgba(58, 47, 47, 0.966);
@@ -7,3 +10,42 @@
     border-spacing: 3px;
     margin-top: 85px;
     text-align: center;
+   margin: 50px 500px 50px 500px;
+  }
+  .flight {
+    margin: 50px 300px 50px 300px;
+  }
+
+  h1 {
+    margin: 50px 500px 50px 500px;
+  }
+
+  h1:hover
+  {
+    font-size: 60px;
+    background-color: purple;
+  }
+
+  a:hover
+  {
+    font-size:60px;
+    background-color: salmon;
+  }
+
+  .link {
+    font-size:60px;
+  }
+
+  .table {
+    font-size: 60px;
+  }
+
+  .home {
+    font-size: 60px;
+  }
+
+  .para
+  {
+    font-size:50px;
+    text-color: salmon;
+  }
